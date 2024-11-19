@@ -24,12 +24,11 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/priyanshu17012003/Health-Dashboard.git
 
-Second, install the necessary packages:
-
+#### 2. **Second, install the necessary packages:**
 ```bash
 npm install
 
-Third, Run the program
+#### 3. **Third, Run the program:**
 
 ```bash
 npm run dev
